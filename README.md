@@ -1,2 +1,1 @@
-# 46P_Wirtanen
-Kerbal Space Program 46P Wirtanen mod
+这是游戏坎巴拉太空计划中的一个mod，它还原了我们太阳系中的一颗短周期彗星 46P Wirtanen,
