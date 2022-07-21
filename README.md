@@ -4,7 +4,7 @@
 但遗憾的是我们目前无法为彗星添加彗尾。
  ![scr00034](https://user-images.githubusercontent.com/108212981/180178551-16ecd7f7-e9c2-4f4b-8807-eb6ebee2a202.png) 
                        
-                                                                  彗星46P Wirtanen的图片
+                                                             彗星46P Wirtanen的图片
                                                                   
                        
 
