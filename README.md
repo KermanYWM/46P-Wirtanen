@@ -1,5 +1,6 @@
-这是游戏坎巴拉太空计划中的一个mod，它还原了我们太阳系中的一颗短周期彗星 46P Wirtanen。
-我建议你在真实太阳系mod（RealSolarSystem）中使用它，而不是在原版使用，因为这会使得它的近日点在Eeloo之外。 
+Game version: 1.12.3
+Require Kopernicus as dependency, and I don't recommend using it in stock system, which will make its periapsis way outside of Eeloo's orbit. Recommended for use with RSS+Principia. (Principia enhance accuracy of its trajectory.)
+
 
 
 
