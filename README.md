@@ -6,7 +6,7 @@
 
  ![scr00034](https://user-images.githubusercontent.com/108212981/180178551-16ecd7f7-e9c2-4f4b-8807-eb6ebee2a202.png) 
                        
-                                                             彗星46P Wirtanen的图片
                                                                   
                        
 
+![screenshot43](https://user-images.githubusercontent.com/108212981/180416758-bd71ee14-e6ec-4b07-a5d1-728e6d88ab55.png)
